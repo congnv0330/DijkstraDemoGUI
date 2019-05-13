@@ -601,6 +601,7 @@ namespace Dijkstra_Demo
         {
             try
             {
+                PtColor.Clear();
                 this.Cursor = Cursors.WaitCursor;
 
                 //Tạo đường dẫn 
@@ -667,6 +668,7 @@ namespace Dijkstra_Demo
             if (MyOpenFileDialog.ShowDialog() == DialogResult.OK)
             {
                 //Gọi hàm lưu đồ thị
+                PtColor.Clear();
                 myGraph.ReadGraph(Pt, segment, lvMatrixView, ChangeColorBrightness(Color.LightGreen, 0.6F), rbtnDirected, rbtnUnDirected, cbStartPoint, cbEndPoint, out i_th, MyOpenFileDialog.FileName);
                 txbLogs.Text += "[" + DateTime.Now.Hour + ":" + DateTime.Now.Minute + ":" + DateTime.Now.Second + "] Graph open!\n";
                 lvTableView.Clear();

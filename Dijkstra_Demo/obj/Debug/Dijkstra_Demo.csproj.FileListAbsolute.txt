@@ -12,3 +12,7 @@ D:\Projects\VS2017\Dijkstra_Demo\Dijkstra_Demo\obj\Debug\Dijkstra_Demo.Guide.res
 D:\Projects\VS2017\Dijkstra_Demo\Dijkstra_Demo\obj\Debug\Dijkstra_Demo.DijkstraFibonnaciHeaps.resources
 D:\Projects\VS2017\Dijkstra_Demo\Dijkstra_Demo\obj\Debug\Dijkstra_Demo.DijkstraNormal.resources
 D:\Projects\VS2017\Dijkstra_Demo\Dijkstra_Demo\obj\Debug\Dijkstra_Demo.DijkstraHeap.resources
+D:\Projects\VS2017\Dijkstra_Demo\Dijkstra_Demo\bin\Debug\MetroFramework.Design.dll
+D:\Projects\VS2017\Dijkstra_Demo\Dijkstra_Demo\bin\Debug\MetroFramework.dll
+D:\Projects\VS2017\Dijkstra_Demo\Dijkstra_Demo\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\VS2017\Dijkstra_Demo\Dijkstra_Demo\obj\Debug\Dijkstra_Demo.csproj.CopyComplete
